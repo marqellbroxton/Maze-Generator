@@ -1,10 +1,3 @@
-###################################
-# Python maze generator program
-# using PyGame for animation
-# Davis MT
-# Python 3.4
-# 10.02.2018
-###################################
 
 import pygame
 import time
